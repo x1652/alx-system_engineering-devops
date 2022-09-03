@@ -5,3 +5,4 @@
 4-empty changes the owner of the file hello to the user betty
 5-execute changes the owner of the file hello to the user betty
 6-multiple_permissions adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+7-everybody adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
